@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shona/static/css/main.199f2b18.chunk.css",
-    "main.js": "/shona/static/js/main.3bd12874.chunk.js",
-    "main.js.map": "/shona/static/js/main.3bd12874.chunk.js.map",
+    "main.js": "/shona/static/js/main.7a2487d4.chunk.js",
+    "main.js.map": "/shona/static/js/main.7a2487d4.chunk.js.map",
     "runtime-main.js": "/shona/static/js/runtime-main.5f08a07c.js",
     "runtime-main.js.map": "/shona/static/js/runtime-main.5f08a07c.js.map",
     "static/css/2.4771dd3b.chunk.css": "/shona/static/css/2.4771dd3b.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4771dd3b.chunk.css",
     "static/js/2.99361ae8.chunk.js",
     "static/css/main.199f2b18.chunk.css",
-    "static/js/main.3bd12874.chunk.js"
+    "static/js/main.7a2487d4.chunk.js"
   ]
 }
